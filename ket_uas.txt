@@ -1,0 +1,3 @@
+Nim	: 22040045
+Nama	: Zidane Rizky Ramadhani
+Kelas	: 3B
